@@ -1,4 +1,4 @@
-board = 9
+board = 9 row
 
 row = [" "," "," ",]
 
@@ -14,3 +14,4 @@ row[2]
 # Move X to the postion 2, Middle
 row[1] =  "X"
 row #=> ['' '',''X'','' '']
+```
