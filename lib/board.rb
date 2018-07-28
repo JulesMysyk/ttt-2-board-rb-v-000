@@ -1,4 +1,4 @@
-board = 9 row
+board = 9 
 
 ''row'' = [" "," "," ",]
 
