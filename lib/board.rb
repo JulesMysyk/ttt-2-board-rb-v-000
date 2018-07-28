@@ -1,6 +1,6 @@
 board = 9 row
 
-row = [" "," "," ",]
+''row'' = [" "," "," ",]
 
 # Position 1: Left
 row[0]
